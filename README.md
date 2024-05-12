@@ -1,0 +1,1 @@
+# Irradiacia_Paralelo
