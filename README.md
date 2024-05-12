@@ -1,4 +1,4 @@
-# Radiación electromagnética en la tierra usando m ́etodos de Montecarlo y optimización en paralelo
+# Radiación electromagnética en la tierra usando métodos de Montecarlo y optimización en paralelo
 
 ## Resumen
 
